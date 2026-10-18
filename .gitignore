@@ -1,0 +1,4 @@
+/firstcode
+*.o
+*.exe
+build/
